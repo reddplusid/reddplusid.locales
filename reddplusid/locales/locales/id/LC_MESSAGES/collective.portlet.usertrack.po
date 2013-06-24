@@ -17,5 +17,5 @@ msgstr ""
 #. Default: "Active Users"
 #: ./usertrack.pt:6
 msgid "portlet_header"
-msgstr ""
+msgstr "Pengguna online"
 

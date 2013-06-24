@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-06-24 05:19+0000\n"
+"POT-Creation-Date: 2013-06-24 09:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,5 +19,55 @@ msgstr ""
 
 #: ./__init__.py:24
 msgid ""
+msgstr ""
+
+#. Default: "Knowledge matters. Its value increases when managed and shared. Effective knowledge management systems allow organizations and Governments to maximize the impact of their work."
+#: ./frontpage.pt:18
+msgid "frontpage_tab1_para1"
+msgstr ""
+
+#. Default: "The REDD+ Management Centre (RMC) helps unleash the potential for emissions reductions by extending the knowledge frontier and supporting actionable information. Through enhanced communication and greater transparency, The RMC emboldens and equips stakeholders to realise REDD+ in Indonesia."
+#: ./frontpage.pt:20
+msgid "frontpage_tab1_para2"
+msgstr ""
+
+#. Default: "The RMC is responsive, dynamic, and supports universal access of information in a practical and user friendly manner."
+#: ./frontpage.pt:22
+msgid "frontpage_tab1_para3"
+msgstr ""
+
+#. Default: "The REDD+ Management Center (RMC) is helping REDD+ better organize information internally. It acts as an in-house roadmap – with short-cuts to the information and resources being sought and it helps us help each other. The RMC is easy to use and has a number of features designed to assist all REDD+ stakeholders work more efficiently."
+#: ./frontpage.pt:28
+msgid "frontpage_tab2_para1"
+msgstr ""
+
+#. Default: "Wherever you are and whenever you need it – the RMC is open for business. All you need is an Internet connection. Think of it as your mobile office. It is essentially \"cloud-computing\" at its very best."
+#: ./frontpage.pt:33
+msgid "frontpage_tab2_para2"
+msgstr ""
+
+#. Default: "Policy questions related to the operations of the RMC can be directed to RMC@unorcid.org"
+#: ./frontpage.pt:35
+msgid "frontpage_tab2_para3"
+msgstr ""
+
+#. Default: "Across the RMC, you will find new tools and applications each accompanied with a set of brief instructions to make your user experience a positive one. To find out more, please visit the tools or applications that best match your business needs by clicking on the top-tool bar or browse from the footer (below)."
+#: ./frontpage.pt:41
+msgid "frontpage_tab3_para1"
+msgstr ""
+
+#. Default: "Current features includes: i) fully integrated workspaces for REDD+ stakeholders ii) a mission report facility, iii) integrated calendar system, and iv) a fully transparent reporting facility on all REDD+ project activities."
+#: ./frontpage.pt:44
+msgid "frontpage_tab3_para2"
+msgstr ""
+
+#. Default: "Many more features are anticipated."
+#: ./frontpage.pt:47
+msgid "frontpage_tab3_para3"
+msgstr ""
+
+#. Default: "Introduction"
+#: ./frontpage.pt:14
+msgid "introduction"
 msgstr ""
 

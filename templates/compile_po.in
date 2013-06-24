@@ -3,6 +3,6 @@
 POFILES=`find ${buildout:directory}/reddplusid/locales/ -regex ".*\.po"`
 
 for PO in $POFILES;do
-    MO=`echo $PO|sed 's|.po|.mo|g'`
+    MO=`echo $PO|sed 's|.po$|.mo|g'`
     msgfmt -o $MO $PO
 done

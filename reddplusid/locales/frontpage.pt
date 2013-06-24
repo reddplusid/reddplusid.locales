@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:tal="http://xml.zope.org/namespaces/tal"
+    xmlns:metal="http://xml.zope.org/namespaces/metal"
+    metal:use-macro="here/main_template/macros/master"
+    xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+    i18n:domain="reddplusid.locales" >
+    <head>
+    </head>
+    <body tal:define="portal_url context/portal_url">
+        <div metal:fill-slot="content-core">
+            <metal:block define-macro="content-core">
+                <h2 class="kuputab-tab-definer-default">
+                    <strong i18n:translate="introduction">Introduction</strong></h2>
+                <p><img 
+                        tal:attributes="src string:${portal_url}/TropicalForest.jpg" 
+                        title="" height="150" width="226" alt="" class="image-left" />
+                    <span i18n:translate="frontpage_tab1_para1">Knowledge matters. Its value increases when managed and shared. Effective knowledge management systems allow organizations and Governments to maximize the impact of their work.</span></p>
+
+                <p i18n:translate="frontpage_tab1_para2">The REDD+ Management Centre (RMC)  helps unleash the potential for emissions reductions by extending the knowledge frontier and supporting actionable information. Through enhanced communication and greater transparency, The RMC emboldens and equips stakeholders to realise REDD+ in Indonesia.</p>
+
+                <p i18n:translate="frontpage_tab1_para3">The RMC is responsive, dynamic, and supports universal access of information in a practical and user friendly manner.</p>
+
+                <h2 class="kuputab-tab-definer">The REDD+ Management Center</h2>
+
+                <p><img tal:attributes="src string:${portal_url}/tropicaltreehouse.jpg" 
+                        title="" height="133" width="216" alt="" class="image-left" />
+                    <span i18n:translate="frontpage_tab2_para1">
+                        The REDD+ Management Center (RMC) is helping REDD+ better organize information internally. It acts as an in-house roadmap – with short-cuts to the information and resources being sought and it helps us help each other. The RMC is easy to use and has a number of features designed to assist all REDD+ stakeholders work more efficiently.
+                    </span>    
+                </p>
+
+                <p i18n:translate="frontpage_tab2_para2">Wherever you are and whenever you need it – the RMC is open for business. All you need is an Internet connection. Think of it as your mobile office. It is essentially "cloud-computing" at its very best.</p>
+
+                <p i18n:translate="frontpage_tab2_para3">Policy questions related to the operations of the RMC can be directed to RMC@unorcid.org</p>
+
+                <h2 class="kuputab-tab-definer">Getting started</h2>
+
+                <p><img tal:attributes="src string:${portal_url}/Gettinigstarted.jpg" 
+                        title="" height="119" width="247" alt="" class="image-left" />
+                    <span i18n:translate="frontpage_tab3_para1">
+                        Across the RMC, you will find new tools and applications each accompanied with a set of brief instructions to make your user experience a positive one. To find out more, please visit the tools or applications that best match your business needs by clicking on the top-tool bar or browse from the footer (below).</span></p>
+
+                <p i18n:translate="frontpage_tab3_para2">
+                    Current features includes: i) fully integrated workspaces for REDD+ stakeholders ii) a mission report facility, iii) integrated calendar system, and iv) a fully transparent reporting facility on all REDD+ project activities.</p>
+
+                <p i18n:translate="frontpage_tab3_para3">Many more features are anticipated.</p>
+            </metal:block>
+        </div>
+    </body>
+</html>
