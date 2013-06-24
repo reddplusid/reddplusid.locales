@@ -42,6 +42,11 @@ msgstr ""
 msgid "REDD+ In The News"
 msgstr ""
 
+#. Default: "dashboard"
+#: ./strings.py:22
+msgid "dashboard"
+msgstr ""
+
 #. Default: "Knowledge matters. Its value increases when managed and shared. Effective knowledge management systems allow organizations and Governments to maximize the impact of their work."
 #: ./frontpage.pt:18
 msgid "frontpage_tab1_para1"
@@ -87,8 +92,43 @@ msgstr ""
 msgid "frontpage_tab3_para3"
 msgstr ""
 
+#. Default: "Getting Started"
+#: ./strings.py:15
+msgid "getting_started"
+msgstr ""
+
+#. Default: "\nwhich is always accessible by clicking on your name on \nthe drop down menu on the top right of the screen.\n"
+#: ./strings.py:18
+msgid "getting_started_text_afterlink"
+msgstr ""
+
+#. Default: "\nFor a quick overview click visit your "
+#: ./strings.py:16
+msgid "getting_started_text_beforelink"
+msgstr ""
+
 #. Default: "Introduction"
 #: ./frontpage.pt:14
 msgid "introduction"
+msgstr ""
+
+#. Default: "Members"
+#: ./strings.py:13
+msgid "members"
+msgstr ""
+
+#. Default: "Missions"
+#: ./strings.py:14
+msgid "missions"
+msgstr ""
+
+#. Default: "Resources"
+#: ./strings.py:12
+msgid "resources"
+msgstr ""
+
+#. Default: "Site Statistics"
+#: ./strings.py:11
+msgid "site_statistics"
 msgstr ""
 
