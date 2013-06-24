@@ -14,6 +14,34 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: DOMAIN\n"
 
+#: ./strings.py:9
+msgid "Faceted Search"
+msgstr ""
+
+#: ./strings.py:10
+msgid "Help"
+msgstr ""
+
+#: ./strings.py:7
+msgid "Missions & Events"
+msgstr ""
+
+#: ./strings.py:5
+msgid "Partners"
+msgstr ""
+
+#: ./strings.py:4
+msgid "Projects"
+msgstr "Proyek"
+
+#: ./strings.py:6
+msgid "REDD+ Agency"
+msgstr ""
+
+#: ./strings.py:8
+msgid "REDD+ In The News"
+msgstr ""
+
 #. Default: "Knowledge matters. Its value increases when managed and shared. Effective knowledge management systems allow organizations and Governments to maximize the impact of their work."
 #: ./frontpage.pt:18
 msgid "frontpage_tab1_para1"

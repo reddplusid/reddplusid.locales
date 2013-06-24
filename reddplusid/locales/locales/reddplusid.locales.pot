@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-06-24 09:35+0000\n"
+"POT-Creation-Date: 2013-06-24 10:02+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,6 +19,34 @@ msgstr ""
 
 #: ./__init__.py:24
 msgid ""
+msgstr ""
+
+#: ./strings.py:9
+msgid "Faceted Search"
+msgstr ""
+
+#: ./strings.py:10
+msgid "Help"
+msgstr ""
+
+#: ./strings.py:7
+msgid "Missions & Events"
+msgstr ""
+
+#: ./strings.py:5
+msgid "Partners"
+msgstr ""
+
+#: ./strings.py:4
+msgid "Projects"
+msgstr ""
+
+#: ./strings.py:6
+msgid "REDD+ Agency"
+msgstr ""
+
+#: ./strings.py:8
+msgid "REDD+ In The News"
 msgstr ""
 
 #. Default: "Knowledge matters. Its value increases when managed and shared. Effective knowledge management systems allow organizations and Governments to maximize the impact of their work."
